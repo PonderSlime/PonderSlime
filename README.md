@@ -23,7 +23,7 @@ Here are some of the technologies and tools I'm proficient in:
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Godot-007396?style=flat&logo=godot&logoColor=white&color=teal" alt="Godot" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-F8DF1C?style=flat&logo=html&logoColor=black" alt="HTML" />
 </p>
 
 ## 📈 GitHub Stats
