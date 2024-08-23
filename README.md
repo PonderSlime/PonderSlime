@@ -1,4 +1,4 @@
-# Hi there, I'm PonderSLime 👋
+# Hi there, I'm PonderSlime 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and working on exciting projects. Here’s a bit about me and what I’m up to.
 
