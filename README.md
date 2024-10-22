@@ -15,6 +15,15 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 - 📫 How to reach me ...
 
 - ⚡ Fun fact: ...
+
+---
+
+<p align="center"> 
+  Page views this year: <br>
+  <img src="https://profile-counter.glitch.me/headblockhead-2024/count.svg" />
+</p>
+
+---
 ## 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I'm proficient in:
