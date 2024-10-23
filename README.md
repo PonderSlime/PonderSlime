@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 <p align="center"> 
   Page views this year: <br>
-  <img src="https://profile-counter.glitch.me/headblockhead-2024/count.svg" />
+  <img src="https://profile-counter.glitch.me/ponderslime-2024/count.svg" />
 </p>
 
 ---
