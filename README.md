@@ -11,18 +11,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 - 🌱 I’m currently learning Godot Engine
 
 - 💞️ I’m looking to collaborate on nothing atm
-
-- 📫 How to reach me ...
-
-- ⚡ Fun fact: ...
-
----
-
-<p align="center"> 
-  Page views this year: <br>
-  <img src="https://profile-counter.glitch.me/ponderslime-2024/count.svg" />
-</p>
-
 ---
 ## 🛠️ Technologies & Tools
 
